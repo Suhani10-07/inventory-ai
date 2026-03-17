@@ -1,6 +1,3 @@
-Got you — here’s a **clean, single `.md` file** with no extra IDs or noise. Just copy → paste into `README.md` 👇
-
-```md
 # 🚀 AI-Powered Smart Inventory System
 
 An **AI-native backend system** that combines FastAPI, MongoDB, Redis, ML, and LangGraph agents to manage inventory intelligently.
